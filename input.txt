@@ -1,0 +1,10 @@
+cat dog cat
+lion tiger dog
+elephant cat
+dog rabbit lion
+tiger elephant cat
+rabbit rabbit dog
+lion cat tiger
+cat dog elephant
+rabbit lion cat
+tiger tiger dog
